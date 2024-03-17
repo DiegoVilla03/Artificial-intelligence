@@ -6,3 +6,10 @@ Welcome to the AI College Course repository! This repository serves as a central
 2. **Projects:** Exciting projects to apply your AI knowledge in practical scenarios, ranging from basic to advanced topics.
 3. **Code Samples:** Sample code snippets and scripts to assist you in understanding the implementation of AI algorithms.
 
+## How to Contribute
+Whether you are a beginner exploring the basics of Artificial Intelligence or an advanced student delving into cutting-edge research, this repository aims to support your learning journey. Feel free to:
+
+- Explore the contents
+- Contribute your own projects and ideas
+- Engage with fellow students
+- Provide feedback and suggestions
