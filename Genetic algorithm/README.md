@@ -45,11 +45,13 @@ The Code features support for Networkx Python Library for visuals and automatic 
 ### v1.0
 - added the parameter nodes to the Genetic_algorithm class
 - added the Answer method
+
 with the added features the code shows an asnwer in terms of the nodes names in the graph insted to convert numbers to nodes 
 
 ### v0.2 
 - Solved issue where the algorithm doesnt found a solution due to sometimes the whole population has an infinite fitness function 
 - Deleted the parameters mu and xrat from Genetic_Algorithm Class that are not bean used
+
 Reformat Run method to make it recursive and force the algorithm output to something less than infinite
 ### v0.1 first Realese
 Realese of base code with a solution for the shortest path problem
