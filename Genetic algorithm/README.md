@@ -1,4 +1,4 @@
-# Genetic Algorithms Library
+# Genetic Algorithms Proyect
 
 This Python Proyect provides an implementation of genetic algorithms for solving optimization problems. Genetic algorithms are heuristic search algorithms inspired by the process of natural selection and genetics. They are often used to find approximate solutions to optimization and search problems.
 
