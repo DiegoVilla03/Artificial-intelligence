@@ -50,7 +50,7 @@ with the added features the code shows an asnwer in terms of the nodes names in 
 
 ### v0.2 
 - Solved issue where the algorithm doesnt found a solution due to sometimes the whole population has an infinite fitness function 
-- Deleted the parameters mu and xrat from Genetic_Algorithm Class that are not bean used
+- Deleted the parameters mu and xrat from Genetic_Algorithm Class that are not used
 
 Reformat Run method to make it recursive and force the algorithm output to something less than infinite
 ### v0.1 first Realese
