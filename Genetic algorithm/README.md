@@ -4,8 +4,8 @@ This Python Proyect provides an implementation of genetic algorithms for solving
 
 ## Features
 
-- **GeneticAlgorithm class**: Provides a flexible framework for implementing genetic algorithms.
-- **Customizable**: Easily customizable parameters such as population size, number of iterations, mutation rate, and crossover methods.
+- **GeneticAlgorithm class**: Provides a flexible framework for implementations.
+- **Customizable**: Easily customizable parameters such as population size, number of iterations.
 - **Support for Graph Problems**: Designed to handle graph-based optimization problems.
 - **Well-Structured**: Organized and well-commented code for easy understanding and modification.
 - **Scalable**: Suitable for small to large-scale optimization problems.
@@ -42,7 +42,7 @@ ga.run()
 The Code features support for Networkx Python Library for visuals and automatic generation of graph 
 ## change history
 
-### v1.0
+### v1.0 Current Realease
 - added the parameter nodes to the Genetic_algorithm class
 - added the Answer method
 
